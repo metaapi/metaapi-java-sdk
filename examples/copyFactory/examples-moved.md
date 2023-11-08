@@ -1,0 +1,1 @@
+CopyFacory code examples have moved to [https://github.com/agiliumtrade-ai/copyfactory-java-sdk/tree/master/examples](https://github.com/agiliumtrade-ai/copyfactory-java-sdk/tree/master/examples)

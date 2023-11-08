@@ -1,0 +1,16 @@
+bin
+.classpath
+.settings
+.project
+.temp
+target
+logs
+broker.srv
+servers.dat
+.env
+.metaapi
+.apt_generated*
+!/src/test/resources/servers.dat
+.docker
+.vscode
+/_*
