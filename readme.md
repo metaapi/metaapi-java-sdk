@@ -19,7 +19,7 @@ For more information about SDK APIs please check esdoc documentation in source c
 ## Working code examples
 Please check [this short video](https://youtu.be/dDOUWBjdfA4) to see how you can download samples via our web application.
 
-You can also find code examples at [examples folder of our github repo](https://github.com/metaapi/metaapi-java-client/tree/master/examples) or in the examples folder of the project.
+You can also find code examples at [examples folder of our github repo](https://github.com/metaapi/metaapi-java-sdk/tree/master/examples) or in the examples folder of the project.
 
 We have composed a [short guide explaining how to use the example code](https://metaapi.cloud/docs/client/usingCodeExamples/)
 
@@ -462,10 +462,10 @@ MetaApi applies quotas to the number of accounts and provisioning profiles, for 
 CopyFactory is a powerful trade copying API which makes developing forex
 trade copying applications as easy as writing few lines of code.
 
-You can find CopyFactory Java SDK documentation here: [https://github.com/metaapi/copyfactory-java-sdk](https://github.com/metaapi/copyfactory-java-sdk)
+You can find CopyFactory Java SDK documentation here: [https://github.com/metaapi/metaapi-copyfactory-java-sdk](https://github.com/metaapi/metaapi-copyfactory-java-sdk)
 
 ## MetaStats trading statistics API
 
 MetaStats is a powerful trade statistics API which makes it possible to add forex trading metrics into forex applications.
 
-You can find MetaStats Java SDK documentation here: [https://github.com/metaapi/metastats-java-sdk](https://github.com/metaapi/metastats-java-sdk)
+You can find MetaStats Java SDK documentation here: [https://github.com/metaapi/metaapi-metastats-java-sdk](https://github.com/metaapi/metaapi-metastats-java-sdk)

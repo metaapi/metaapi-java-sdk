@@ -1,1 +1,1 @@
-CopyFacory code examples have moved to [https://github.com/metaapi/copyfactory-java-sdk/tree/master/examples](https://github.com/metaapi/copyfactory-java-sdk/tree/master/examples)
+CopyFacory code examples have moved to [https://github.com/metaapi/metaapi-copyfactory-java-sdk/tree/master/examples](https://github.com/metaapi/metaapi-copyfactory-java-sdk/tree/master/examples)
