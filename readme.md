@@ -437,7 +437,7 @@ MetatraderDemoAccount demoAccount = api.getMetatraderDemoAccountApi()
   balance = 100000;
   email = "example@example.com";
   leverage = 100;
-  serverName = "Exness-Trial4";
+  serverName = "Example-Server-Demo";
 }}).join();
 ```
 
